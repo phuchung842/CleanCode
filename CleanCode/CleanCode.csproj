@@ -6,14 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ComposingMethods\_c_ExtractVariable\" />
-    <Folder Include="ComposingMethods\_d_InlineTemp\" />
-    <Folder Include="ComposingMethods\_e_SplitTemporaryVariable\" />
-    <Folder Include="ComposingMethods\_f_RemoveAssignmentstFromParameters\" />
-    <Folder Include="ComposingMethods\_g_ReplaceMethodWithMethodObject\" />
-    <Folder Include="ComposingMethods\_h_SubstituteAlgorithm\" />
-    <Folder Include="ComposingMethods\_b_InlineMethod\" />
-    <Folder Include="ComposingMethods\_a_ExtractMethod\" />
     <Folder Include="MovingFeaturesBetweenObjects\" />
     <Folder Include="Prevent_if\" />
     <Folder Include="OrganizingData\" />
