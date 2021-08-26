@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanCode.ComposingMethods._f_RemoveAssignmentstFromParameters
+namespace CleanCode.ComposingMethods._e_SplitTemporaryVariable
 {
-    class Class1
+    class Problem
     {
     }
 }

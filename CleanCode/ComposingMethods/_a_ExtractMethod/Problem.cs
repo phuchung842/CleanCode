@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanCode.ComposingMethods._b_InlineMethod
+namespace CleanCode.ComposingMethods._a_ExtractMethod
 {
-    class Class1
+    class Problem
     {
     }
 }

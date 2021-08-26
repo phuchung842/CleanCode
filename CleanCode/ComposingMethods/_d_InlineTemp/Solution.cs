@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanCode.ComposingMethods._h_SubstituteAlgorithm
+namespace CleanCode.ComposingMethods._d_InlineTemp
 {
-    class Class1
+    class Solution
     {
     }
 }
