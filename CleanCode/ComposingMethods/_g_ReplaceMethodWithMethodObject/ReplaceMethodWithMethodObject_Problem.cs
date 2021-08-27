@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanCode.ComposingMethods._h_SubstituteAlgorithm
+namespace CleanCode.ComposingMethods._g_ReplaceMethodWithMethodObject
 {
-    class Problem
+    class ReplaceMethodWithMethodObject_Problem
     {
     }
 }

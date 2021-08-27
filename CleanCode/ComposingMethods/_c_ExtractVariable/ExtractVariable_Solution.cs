@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanCode.ComposingMethods._f_RemoveAssignmentstFromParameters
+namespace CleanCode.ComposingMethods._c_ExtractVariable
 {
-    class Problem
+    class ExtractVariable_Solution
     {
     }
 }

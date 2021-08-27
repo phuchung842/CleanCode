@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CleanCode.ComposingMethods._c_ExtractVariable
 {
-    class Problem
+    class ExtractVariable_Problem
     {
     }
 }

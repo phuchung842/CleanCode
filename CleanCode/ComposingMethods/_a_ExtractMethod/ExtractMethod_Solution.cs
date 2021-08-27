@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanCode.ComposingMethods._e_SplitTemporaryVariable
+namespace CleanCode.ComposingMethods._a_ExtractMethod
 {
-    class Problem
+    class ExtractMethod_Solution
     {
     }
 }

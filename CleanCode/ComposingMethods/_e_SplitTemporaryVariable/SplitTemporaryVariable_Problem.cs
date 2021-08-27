@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CleanCode.ComposingMethods._e_SplitTemporaryVariable
 {
-    class Solution
+    class SplitTemporaryVariable_Problem
     {
     }
 }

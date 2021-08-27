@@ -1,4 +1,6 @@
-﻿using System;
+﻿using CleanCode.ComposingMethods._a_ExtractMethod;
+using CleanCode.ComposingMethods._b_InlineMethod;
+using System;
 
 namespace CleanCode
 {

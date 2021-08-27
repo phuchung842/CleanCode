@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CleanCode.ComposingMethods._g_ReplaceMethodWithMethodObject
 {
-    class Problem
+    class ReplaceMethodWithMethodObject_Solution
     {
     }
 }

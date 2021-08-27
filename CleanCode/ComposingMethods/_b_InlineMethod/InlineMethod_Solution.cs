@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CleanCode.ComposingMethods._d_InlineTemp
+namespace CleanCode.ComposingMethods._b_InlineMethod
 {
-    class Problem
+    class InlineMethod_Solution
     {
     }
 }
