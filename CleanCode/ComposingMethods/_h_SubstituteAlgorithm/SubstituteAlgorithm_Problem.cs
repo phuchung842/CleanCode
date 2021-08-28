@@ -6,7 +6,27 @@ using System.Threading.Tasks;
 
 namespace CleanCode.ComposingMethods._h_SubstituteAlgorithm
 {
-    class SubstituteAlgorithm_Problem
+	//So you want to replace an existing algorithm with a new one?
+	class SubstituteAlgorithm_Problem
     {
-    }
+		string foundPerson(String[] people)
+		{
+			for (int i = 0; i < people.Length; i++)
+			{
+				if (people[i].Equals("Don"))
+				{
+					return "Don";
+				}
+				if (people[i].Equals("John"))
+				{
+					return "John";
+				}
+				if (people[i].Equals("Kent"))
+				{
+					return "Kent";
+				}
+			}
+			return "";
+		}
+	}
 }
