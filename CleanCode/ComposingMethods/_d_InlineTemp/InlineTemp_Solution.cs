@@ -8,5 +8,9 @@ namespace CleanCode.ComposingMethods._d_InlineTemp
 {
     class InlineTemp_Solution
     {
+        private bool hasDiscount(Order order)
+        {
+            return order.basePrice() > 1000;
+        }
     }
 }
