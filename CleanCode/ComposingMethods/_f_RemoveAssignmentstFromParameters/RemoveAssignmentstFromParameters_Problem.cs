@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace CleanCode.ComposingMethods._f_RemoveAssignmentstFromParameters
 {
-    class RemoveAssignmentstFromParameters_Problem
+	//Some value is assigned to a parameter inside method's body
+	class RemoveAssignmentstFromParameters_Problem
     {
-    }
+		int discount(int inputVal, int quantity)
+		{
+			if (quantity > 50)
+			{
+				inputVal -= 2;
+			}
+			return quantity;
+		}
+	}
 }
