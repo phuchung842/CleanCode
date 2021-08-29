@@ -6,28 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="MovingFeaturesBetweenObjects\_c_ExtractClass\" />
-    <Folder Include="MovingFeaturesBetweenObjects\_d_InlineClass\" />
-    <Folder Include="MovingFeaturesBetweenObjects\_e_HideDelegate\" />
-    <Folder Include="MovingFeaturesBetweenObjects\_f_IntroduceForeignMethod\" />
-    <Folder Include="MovingFeaturesBetweenObjects\_g_IntroduceLocalExtension\" />
-    <Folder Include="MovingFeaturesBetweenObjects\_b_MoveFiled\" />
-    <Folder Include="MovingFeaturesBetweenObjects\_a_MoveMethod\" />
-    <Folder Include="OrganizingData\_c_ChangeValueToReference\" />
-    <Folder Include="OrganizingData\_d_ChangeReferenceToValue\" />
-    <Folder Include="OrganizingData\_e_ReplaceArrayWithObject\" />
-    <Folder Include="OrganizingData\_b_ReplaceDataValueWithObject\" />
-    <Folder Include="OrganizingData\_f_DuplicateObservedData\" />
-    <Folder Include="OrganizingData\_g_ChangeUnidirectionalAsociationToBidirectional\" />
-    <Folder Include="OrganizingData\_h_ChangeBidirectionalAsociationToUnidirectional\" />
-    <Folder Include="OrganizingData\_i_ReplaceMagicNumberWithSymbolicConstant\" />
-    <Folder Include="OrganizingData\_j_EncapsulateCollection\" />
-    <Folder Include="OrganizingData\_k_ReplaceTypeCodeWithClass\" />
-    <Folder Include="OrganizingData\_l_ReplaceTypeCodeWithSubclass\" />
-    <Folder Include="OrganizingData\_m_ReplaceTypeCodeWithStateStrategy\" />
-    <Folder Include="OrganizingData\_a_SelfEncapsulateField\" />
-    <Folder Include="Prevent_if\Solution\" />
-    <Folder Include="Prevent_if\Problem\" />
+    <Folder Include="OrganizingData\_h_ChangeBidirectionalAsociationToUnidirectional\Problem\" />
   </ItemGroup>
 
 </Project>
